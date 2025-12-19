@@ -1,2 +1,2 @@
 # ls-101
-small problems
+small problems lesson 2
